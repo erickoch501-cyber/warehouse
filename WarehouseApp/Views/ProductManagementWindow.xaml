@@ -1,0 +1,40 @@
+﻿<Window x:Class="WarehouseApp.Views.ProductManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Товары"
+        Height="500" Width="900"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="WarehouseTitle" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+        <DataGrid x:Name="ProductsGrid" Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Header="Фото" Width="60">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding ImagePath}" Width="40" Height="40" Stretch="Uniform"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Наименование" Binding="{Binding Name}" Width="120"/>
+                <DataGridTextColumn Header="Категория" Binding="{Binding Category.Name}" Width="100"/>
+                <DataGridTextColumn Header="Производитель" Binding="{Binding Manufacturer.Name}" Width="120"/>
+                <DataGridTextColumn Header="Поставщик" Binding="{Binding Supplier.Name}" Width="120"/>
+                <DataGridTextColumn Header="Цена" Binding="{Binding Price}" Width="80"/>
+                <DataGridTextColumn Header="Остаток" Binding="{Binding Stock}" Width="80"/>
+                <DataGridTextColumn Header="Скидка %" Binding="{Binding Discount}" Width="80"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="Закрыть" Width="80" Click="Close_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\WarehouseApp\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Admin\source\repos\WarehouseApp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Admin\source\repos\WarehouseApp\ClassLibrary1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\source\repos\WarehouseApp\ClassLibrary1\obj\Debug\WarehouseData.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WarehouseApp\ClassLibrary1\obj\Debug\WarehouseData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WarehouseApp\ClassLibrary1\obj\Debug\Warehous.16CEDE96.Up2Date
+C:\Users\Admin\source\repos\WarehouseApp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Admin\source\repos\WarehouseApp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

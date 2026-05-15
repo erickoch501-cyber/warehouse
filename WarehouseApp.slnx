@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ClassLibrary1/WarehouseData.csproj" Id="a03ae96a-e1d2-44a4-a2d4-34e33678bc89" />
+  <Project Path="WarehouseApp/WarehouseApp.csproj" Id="93139ab9-b48c-4ded-8622-b40159a3a943" />
+  <Project Path="WarehouseTests/WarehouseTests.csproj" Id="37d03fc5-f03c-4eef-8c71-880b8c9d2456" />
+</Solution>

@@ -1,0 +1,763 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\warehousemanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\warehousemanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D03FC5-F03C-4EEF-8C71-880B8C9D2456}|WarehouseTests\\WarehouseTests.csproj|c:\\users\\admin\\source\\repos\\warehouseapp\\warehousetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D03FC5-F03C-4EEF-8C71-880B8C9D2456}|WarehouseTests\\WarehouseTests.csproj|solutionrelative:warehousetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\warehousemanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\warehousemanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\invoiceslistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\invoiceslistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\services\\testdataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\services\\testdataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\invoiceformdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\invoiceformdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\invoiceformdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\invoiceformdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\invoiceslistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\invoiceslistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\productmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\productmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\invoiceadddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\invoiceadddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\invoiceadddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\invoiceadddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\productmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\productmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\warehouselistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\warehouselistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\warehouselistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\warehouselistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\organizationselectordialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\organizationselectordialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\organizationselectordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\organizationselectordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\warehouseselectordialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\warehouseselectordialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\warehouseselectordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\warehouseselectordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\warehousedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\warehousedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\organizationdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\organizationdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\invoicedetailsdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\invoicedetailsdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\invoicedetailsdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\invoicedetailsdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\inputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\inputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\warehousedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\warehousedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D03FC5-F03C-4EEF-8C71-880B8C9D2456}|WarehouseTests\\WarehouseTests.csproj|c:\\users\\admin\\source\\repos\\warehouseapp\\warehousetests\\warehousetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37D03FC5-F03C-4EEF-8C71-880B8C9D2456}|WarehouseTests\\WarehouseTests.csproj|solutionrelative:warehousetests\\warehousetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\views\\organizationdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\organizationdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\services\\organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\services\\organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\warehouseapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93139AB9-B48C-4DED-8622-B40159A3A943}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\WarehouseData.csproj|solutionrelative:classlibrary1\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\Admin\\source\\repos\\WarehouseApp\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03AE96A-E1D2-44A4-A2D4-34E33678BC89}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceFormDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceFormDialog.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\InvoiceFormDialog.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceFormDialog.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\InvoiceFormDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T08:15:35.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestDataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Services\\TestDataSeeder.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\TestDataSeeder.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Services\\TestDataSeeder.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\TestDataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:12:29.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceFormDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceFormDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\InvoiceFormDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceFormDialog.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\InvoiceFormDialog.xaml.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAuwMcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:16:29.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Services\\WarehouseService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\WarehouseService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Services\\WarehouseService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\WarehouseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:08:37.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarehouseManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseManagementWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\WarehouseManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseManagementWindow.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\WarehouseManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T17:52:16.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoicesListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoicesListWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\InvoicesListWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoicesListWindow.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\InvoicesListWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:04:51.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WarehouseTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseTests\\WarehouseTests.csproj",
+              "RelativeDocumentMoniker": "WarehouseTests\\WarehouseTests.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseTests\\WarehouseTests.csproj",
+              "RelativeToolTip": "WarehouseTests\\WarehouseTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T15:32:20.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarehouseManagementWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\WarehouseManagementWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseManagementWindow.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\WarehouseManagementWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T17:52:31.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "WarehouseTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseTests\\UnitTest1.cs",
+              "RelativeToolTip": "WarehouseTests\\UnitTest1.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAuwP4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:28:44.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoicesListWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoicesListWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\InvoicesListWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoicesListWindow.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\InvoicesListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T17:59:33.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\ProductManagementWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\ProductManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\ProductManagementWindow.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\ProductManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T08:50:41.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceAddDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceAddDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\InvoiceAddDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceAddDialog.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\InvoiceAddDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:51:37.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceAddDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceAddDialog.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\InvoiceAddDialog.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceAddDialog.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\InvoiceAddDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T08:51:15.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WarehouseListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseListWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\WarehouseListWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseListWindow.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\WarehouseListWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:50:23.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductManagementWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\ProductManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\ProductManagementWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\ProductManagementWindow.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\ProductManagementWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:50:55.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WarehouseListWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseListWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\WarehouseListWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseListWindow.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\WarehouseListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T08:50:02.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\MainWindow.xaml",
+              "RelativeToolTip": "WarehouseApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T15:59:52.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:59:51.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\App.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\App.xaml",
+              "RelativeToolTip": "WarehouseApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T17:54:19.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\ProductDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\ProductDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\ProductDialog.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\ProductDialog.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:01:34.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrganizationSelectorDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\OrganizationSelectorDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\OrganizationSelectorDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\OrganizationSelectorDialog.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\OrganizationSelectorDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T17:56:22.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrganizationSelectorDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\OrganizationSelectorDialog.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\OrganizationSelectorDialog.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\OrganizationSelectorDialog.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\OrganizationSelectorDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T17:56:02.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WarehouseSelectorDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseSelectorDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\WarehouseSelectorDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseSelectorDialog.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\WarehouseSelectorDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T17:57:07.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WarehouseSelectorDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseSelectorDialog.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\WarehouseSelectorDialog.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseSelectorDialog.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\WarehouseSelectorDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T17:56:47.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\ProductDialog.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\ProductDialog.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\ProductDialog.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\ProductDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T15:01:00.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WarehouseDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseDialog.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\WarehouseDialog.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseDialog.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\WarehouseDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T14:58:10.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrganizationDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\OrganizationDialog.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\OrganizationDialog.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\OrganizationDialog.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\OrganizationDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T14:53:29.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InvoiceDetailsDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceDetailsDialog.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\InvoiceDetailsDialog.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceDetailsDialog.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\InvoiceDetailsDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T15:18:25.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InputDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InputDialog.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\InputDialog.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InputDialog.xaml",
+              "RelativeToolTip": "WarehouseApp\\Views\\InputDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T15:11:31.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\App.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:54:44.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InvoiceDetailsDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceDetailsDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\InvoiceDetailsDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InvoiceDetailsDialog.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\InvoiceDetailsDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:18:53.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Category.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:56:17.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Invoice.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:10:40.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Resources\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Resources\\Styles.xaml",
+              "RelativeToolTip": "WarehouseApp\\Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T16:01:47.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InputDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InputDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\InputDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\InputDialog.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\InputDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:11:43.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WarehouseDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\WarehouseDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\WarehouseDialog.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\WarehouseDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:58:38.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\InvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:11:05.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrganizationDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\OrganizationDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\OrganizationDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Views\\OrganizationDialog.xaml.cs",
+              "RelativeToolTip": "WarehouseApp\\Views\\OrganizationDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:53:47.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Organization.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\Organization.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Organization.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:58:31.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Product.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:59:05.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrganizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Services\\OrganizationService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\OrganizationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Services\\OrganizationService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\OrganizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:07:53.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Services\\ProductService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:09:21.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Warehouse.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:58:46.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\WarehouseApp\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "WarehouseApp\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:03:19.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Supplier.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:58:15.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:57:58.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WarehouseApp\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:43:42.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

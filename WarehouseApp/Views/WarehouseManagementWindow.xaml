@@ -1,0 +1,117 @@
+﻿<Window x:Class="WarehouseApp.Views.WarehouseManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Управление складом"
+        Height="600" Width="1100"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Верхнее меню -->
+        <Menu Grid.Row="0">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Выход" Click="Exit_Click"/>
+            </MenuItem>
+            <MenuItem Header="Склады" Click="MenuWarehouses_Click"/>
+            <MenuItem Header="Товары" Click="MenuProducts_Click"/>
+            <MenuItem Header="Накладные" Click="MenuInvoices_Click"/>
+            <MenuItem Header="Справочник" Click="MenuReferences_Click"/>
+        </Menu>
+
+        <!-- Основное содержимое -->
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Левая панель - список складов -->
+            <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                <TextBlock Text="Склады" FontWeight="Bold" Margin="0,0,0,5"/>
+                <ListBox x:Name="WarehousesList" 
+                         SelectionMode="Single" 
+                         SelectionChanged="WarehousesList_SelectionChanged"
+                         MouseRightButtonUp="WarehousesList_MouseRightButtonUp"
+                         DisplayMemberPath="WhName"
+                         Height="300">
+                    <ListBox.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Добавить склад" Click="AddWarehouse_Click"/>
+                            <MenuItem Header="Изменить склад" Click="EditWarehouse_Click"/>
+                            <MenuItem Header="Удалить склад" Click="DeleteWarehouse_Click"/>
+                        </ContextMenu>
+                    </ListBox.ContextMenu>
+                </ListBox>
+            </StackPanel>
+
+            <!-- Правая панель - товары -->
+            <StackPanel Grid.Column="1">
+                <!-- Поиск, поставщик, сортировка -->
+                <Grid Margin="0,0,0,10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                        <TextBlock Text="Поиск" FontWeight="Bold" Margin="0,0,0,3"/>
+                        <TextBox x:Name="SearchBox" Height="25" TextChanged="Search_TextChanged"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Margin="0,0,10,0">
+                        <TextBlock Text="Поставщик" FontWeight="Bold" Margin="0,0,0,3"/>
+                        <ComboBox x:Name="SupplierFilter" Height="25" DisplayMemberPath="Name" SelectionChanged="Filter_Changed"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2">
+                        <TextBlock Text="Сортировка" FontWeight="Bold" Margin="0,0,0,3"/>
+                        <ComboBox x:Name="SortBox" Height="25" SelectionChanged="Sort_Changed">
+                            <ComboBoxItem Content="По наименованию"/>
+                            <ComboBoxItem Content="По цене (возраст)"/>
+                            <ComboBoxItem Content="По цене (убыв)"/>
+                            <ComboBoxItem Content="По остатку"/>
+                        </ComboBox>
+                    </StackPanel>
+                </Grid>
+
+                <!-- Таблица товаров с контекстным меню -->
+                <DataGrid x:Name="ProductsGrid" AutoGenerateColumns="False" IsReadOnly="True" Height="400"
+                          MouseRightButtonUp="ProductsGrid_MouseRightButtonUp"
+                          SelectionMode="Single">
+                    <DataGrid.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Добавить через накладную" Click="AddInvoiceForm_Click"/>
+                            <Separator/>
+                            <MenuItem Header="Изменить товар" Click="EditProduct_Click"/>
+                            <MenuItem Header="Удалить товар" Click="DeleteProduct_Click"/>
+                            <Separator/>
+                            <MenuItem Header="Поступление" Click="Incoming_Click"/>
+                            <MenuItem Header="Списание" Click="Outgoing_Click"/>
+                        </ContextMenu>
+                    </DataGrid.ContextMenu>
+                    <DataGrid.Columns>
+                        <DataGridTemplateColumn Header="Фото" Width="60">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding ImagePath}" Width="40" Height="40" Stretch="Uniform"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTextColumn Header="Наименование" Binding="{Binding Name}" Width="120"/>
+                        <DataGridTextColumn Header="Категория" Binding="{Binding Category.Name}" Width="100"/>
+                        <DataGridTextColumn Header="Производитель" Binding="{Binding Manufacturer.Name}" Width="120"/>
+                        <DataGridTextColumn Header="Поставщик" Binding="{Binding Supplier.Name}" Width="120"/>
+                        <DataGridTextColumn Header="Цена" Binding="{Binding Price}" Width="80"/>
+                        <DataGridTextColumn Header="Остаток" Binding="{Binding Stock}" Width="80"/>
+                        <DataGridTextColumn Header="Скидка %" Binding="{Binding Discount}" Width="80"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
